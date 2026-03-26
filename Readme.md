@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=C98A4A&center=true&pause=100000&lines=Hi,+I'm+a+CS+Undergraduate." alt="Hi"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=C98A4A&center=true&vCenter=true&width=780&pause=100000&lines=CS+Undergraduate+%7C+ML+Learner+%7C+Computer+Graphics+%7C+Embedded+Development+%7C+Algorithm+Enthusiast." alt="Current Role"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=C98A4A&center=true&vCenter=true&width=780&pause=100000&lines=CS+Undergraduate+%7C+LLM+Learner+%7C+Computer+Graphics+%7C+Embedded+Development+%7C+Algorithm+Enthusiast." alt="Current Role"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" height="24px" alt="wave"/>
     <strong>Always keep learning and exploring new technologies.</strong>
