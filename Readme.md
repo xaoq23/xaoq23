@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- 动态打字 - 开场（已放慢速度） -->
+<!-- 动态打字 - 开场 -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=8000&pause=5000&color=C98A4A&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+a+CS+Undergraduate;Rust+%7C+C%2B%2B+%7C+Python;AI+Infra+%7C+LLM+Systems" alt="Typing SVG" />
 
 <br/>
 
-<!-- 动态打字 - 详细描述（已放慢速度） -->
+<!-- 动态打字 - 详细描述 -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=8000&pause=5000&color=6B7B8D&center=true&vCenter=true&width=700&lines=Building+the+infrastructure+behind+intelligent+systems;Systems+Programming+%7C+Computer+Graphics+%7C+Embedded+Development" alt="Typing SVG" />
 
 <br/>
@@ -16,8 +16,9 @@
 <br/><br/>
 
 <!-- 个人标签 -->
-
-<code>📍 Student </code>
+<code>🎂 Born 2005-02-28</code>
+&nbsp;
+<code>📍 Student / Remote</code>
 &nbsp;
 <code>🎯 AI Infrastructure</code>
 
@@ -81,26 +82,34 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 Current Focus
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xaoq23&theme=onedark&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+| 💡 What I'm Doing        | 🔍 Details                                          |
+| :---------------------- | :------------------------------------------------- |
+| **AI Infra**            | Building high-performance LLM serving systems      |
+| **Systems Programming** | Rust & C++ for low-latency infrastructure          |
+| **Computer Graphics**   | Rendering pipelines and GPU-accelerated algorithms |
+| **Embedded Systems**    | Hardware-software co-design & optimization         |
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 🐍 Contribution Snake
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xaoq23&theme=github-compact&bg_color=0D1117&color=C98A4A&line=C98A4A&point=C9D1D9&area=true&area_color=C98A4A&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xaoq23/xaoq23/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xaoq23/xaoq23/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/xaoq23/xaoq23/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
 ---
-
 
 ## 📬 Links
 
@@ -117,6 +126,7 @@
 <div align="center">
   <br/>
   <em>"Keep learning, even if progress is slow, never stop."</em>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=xaoq23&color=C98A4A&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <br/>
+  <br/>
+  <sub>Thanks for visiting! 🚀</sub>
 </div>
