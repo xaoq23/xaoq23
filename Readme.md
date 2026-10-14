@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- 动态打字 - 开场 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=8000&pause=5000&color=C98A4A&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+a+CS+Undergraduate;Rust+%7C+C%2B%2B+%7C+Python;AI+Infra+%7C+LLM+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=8000&pause=5000&color=C98A4A&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+a+CS+Undergraduate" alt="Typing SVG" />
 
 <br/>
 
 <!-- 动态打字 - 详细描述 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=8000&pause=5000&color=6B7B8D&center=true&vCenter=true&width=700&lines=Building+the+infrastructure+behind+intelligent+systems;Systems+Programming+%7C+Computer+Graphics+%7C+Embedded+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=8000&pause=5000&color=6B7B8D&center=true&vCenter=true&width=700&lines=Building+the+infrastructure+behind+intelligent+systems" alt="Typing SVG" />
 
 <br/>
 
@@ -16,11 +16,10 @@
 <br/><br/>
 
 <!-- 个人标签 -->
-<code>🎂 Born 2005-02-28</code>
+
+<code>📍 Student </code>
 &nbsp;
-<code>📍 Student / Remote</code>
-&nbsp;
-<code>🎯 AI Infrastructure</code>
+<code>🎯 AI infra </code>
 
 </div>
 
@@ -29,8 +28,7 @@
 ## 🧑‍💻 About Me
 
 - I'm an undergraduate majoring in **Computer Science**, passionate about systems-level programming and AI infrastructure.
-- Currently diving deep into **AI Infra**, **LLM Systems**, **Computer Graphics**, **Embedded Development**, and **Algorithms**.
-- Primary languages: **Rust** 🦀 · **C++** ⚙️ · **Python** 🐍
+- Currently diving deep into **AI Infra**, **LLM Systems**  and **Algorithms**.
 - I'm happy to connect with anyone interested — feel free to reach out via email.
 
 ---
@@ -82,20 +80,6 @@
 
 ---
 
-## 🚀 Current Focus
-
-<div align="center">
-
-| 💡 What I'm Doing        | 🔍 Details                                          |
-| :---------------------- | :------------------------------------------------- |
-| **AI Infra**            | Building high-performance LLM serving systems      |
-| **Systems Programming** | Rust & C++ for low-latency infrastructure          |
-| **Computer Graphics**   | Rendering pipelines and GPU-accelerated algorithms |
-| **Embedded Systems**    | Hardware-software co-design & optimization         |
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
